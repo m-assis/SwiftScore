@@ -29,4 +29,4 @@ O **SwiftScore** é uma aplicação Java de console desenvolvida para gerenciar,
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/lucasneves55/SwiftScore.git](https://github.com/lucasneves55/SwiftScore.git)
+   git clone [https://github.com/m-assis/SwiftScore.git](https://github.com/m-assis/SwiftScore.git)
