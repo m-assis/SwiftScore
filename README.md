@@ -1,4 +1,4 @@
-# 🎵 SwiftScore - Avaliador e Ranking de Álbuns
+# 🎵 SwiftScore - Avaliador e Ranking de Músicas de Album
 
 O **SwiftScore** é uma aplicação Java de console desenvolvida para gerenciar, avaliar e ordenar faixas de álbuns musicais em tempo real. O projeto simula um sistema de avaliação de mídia aplicando conceitos fundamentais da Programação Orientada a Objetos (POO) e manipulação de dados em memória.
 
